@@ -1,7 +1,7 @@
 [
   {
-    "Author": "Paissa Heavy Industries",
-    "Name": "Telesto",
+    "Author": "ptliu",
+    "Name": "Telesto-versionbump",
     "Description": "repackaged telesto because jank",
     "InternalName": "Telesto",
     "AssemblyVersion": "0.9.6.0",
